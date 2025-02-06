@@ -39,11 +39,11 @@ Abra o Jupyter Notebook `etl.ipynb` e execute todas as células.
 
 Um arquivo combustiveis.db foi gerado com todas as tabelas estruturadas.
 
-'''![database](imgs/database.jpg)'''
+![database](imgs/database.jpg)
 
 Use ferramentas como DB Browser for SQLite para explorar os dados.
 
 5. Visualização de Dados:
 
 Gráficos interativos são gerados automaticamente no notebook, use os dropdowns para filtrar por estado e tipo de combustível conforme visualização abaixo.
-'''![grafico_linha_combustiveis](imgs/image.png)'''
+![grafico_linha_combustiveis](imgs/image.png)
